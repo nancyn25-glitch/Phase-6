@@ -1,5 +1,5 @@
 
-const API_URL = "http://localhost:3000/feedback";
+const API_URL = "https://phase-6-pbmp.onrender.com/feedback";
 
 const feedbackForm = document.querySelector("#feedbackForm");
 const nameInput = document.querySelector("#studentName");
