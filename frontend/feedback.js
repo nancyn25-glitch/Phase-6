@@ -1,5 +1,5 @@
 
-const API_URL = "http://localhost:3000/feedback";
+const API_URL = "https://phase-6-pbmp.onrender.com/feedback";
 
 const feedbackList = document.querySelector("#feedbackList");
 const loadButton = document.querySelector("#loadFeedback");
